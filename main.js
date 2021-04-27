@@ -1,4 +1,5 @@
-arr = [3,25,209]
+var arr = process.argv.slice(2);
+// arr = [3,25,209]
 // arr2 = [10,300,5]
 
 
